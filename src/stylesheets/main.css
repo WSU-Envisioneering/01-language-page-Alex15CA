@@ -1,1 +1,26 @@
 /* Your styles go here */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #2E3A25;
+    color: #A0E0D3;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+nav a{
+    color: #8E3A9A;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav a:hover{
+    color: #4B9CD3;
+}
+img{
+    width: 50%;
+}
+
+
